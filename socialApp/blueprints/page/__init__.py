@@ -1,0 +1,1 @@
+from socialApp.blueprints.page.views import page
